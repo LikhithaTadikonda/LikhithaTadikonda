@@ -24,4 +24,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=likhithatadikonda&show_icons=true&locale=en&layout=compact" alt="likhithatadikonda" /></p><br>
 <br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=likhithatadikonda&" alt="likhithatadikonda" /></p>
+<details>	
+  <summary><b>⚡Github Stats</b></summary>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=likhithatadikonda&" alt="likhithatadikonda" /></p></details>
