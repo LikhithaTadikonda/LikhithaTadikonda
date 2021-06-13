@@ -18,7 +18,7 @@
 
 ## How to contribute?
 1. Fork this repository into your github account
-2. Clone this project into your local machine.<br/> `git clone https://github.com/Developer-Students-Clubs-MESCOE/HacktoberFest-JS-Calculator.git`
+2. Clone this project into your local machine.<br/> `git clone https:                           `
 3. make a new branch.<br/> `git checkout -b branch-name`
 4. push your code into this branch.<br/>
    `git add .`<br/>
