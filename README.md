@@ -27,9 +27,10 @@
    `git push origin branch-name`
 5. Make a Pull request
 
-<h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=likhithatadikonda&show_icons=true&locale=en&layout=compact" alt="likhithatadikonda" /></p><br>
-<br><br><br><br><br><br><br>
+<details>	
+   <summary><b>Stats:</b></summary>
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=likhithatadikonda&show_icons=true&locale=en&layout=compact" alt="likhithatadikonda" />    </p>
+ </details>
 
 <details>	
   <summary><b>⚡Github Stats</b></summary>
