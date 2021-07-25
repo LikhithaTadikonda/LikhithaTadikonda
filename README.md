@@ -13,9 +13,6 @@
 -  Learning to become a full stack web developer.<br>
 -  Third Year Undergrad majoring in AI&ML,Computer Science and Engineering.<br>
 -  Exploring applied Machine Learning & Deep Learning.<br>
--  
-### Visitor Count:
-![Visitor Count](https://profile-counter.glitch.me/LikhithaTadikonda/count.svg)
 
 <h3 align="left">Technologies:</h3>
 <p align="left">
