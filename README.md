@@ -7,7 +7,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/likhitha-tadikonda-4351511a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/likhitha-tadikonda-4351511a4/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/likhithatoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/likhithatoo/" height="30" width="40" /></a>
 <a href="https://instagram.com/@likhithatoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@likhithatoo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/likhitha talks too" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="likhitha talks too" height="30" width="40" /></a>
 <a href="https://discord.gg/#5406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5406" height="30" width="40" /></a>
 </p>
 
