@@ -1,6 +1,11 @@
 <h1 align="center">Hey there,I'm [Likhitha Tadikonda!]👋</h1>
 <h6 align="right">-It’s not about having the skill to do something. It’s about having the will, desire & commitment to be your best.</h6>
 
+<p align="center">
+  <img alt="Sloan, the sloth mascot" width="250px" src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif">
+   <br>
+</p>
+
 <p align="left">
 <a href="https://dev.to/likhithatadikonda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="likhithatadikonda" height="30" width="40" /></a>
 <a href="https://twitter.com/@likhithatoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@likhithatoo" height="30" width="40" /></a>
@@ -49,3 +54,4 @@
   <summary><b>⚡Github Stats</b></summary>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=likhithatadikonda&show_icons=true&locale=en" alt="likhithatadikonda" /></p><br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=likhithatadikonda&" alt="likhithatadikonda" /></p></details>
+
