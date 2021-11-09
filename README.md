@@ -1,24 +1,22 @@
-<h1 align="center">Hey there,I'm [Likhitha Tadikonda!]👋</h1>
+<h1 align="center">Hey there,I'm [Likhitha Tadikonda!👋🏾 👩🏾‍💻</h1>
 <h6 align="right">-It’s not about having the skill to do something. It’s about having the will, desire & commitment to be your best.</h6>
 
-<p align="center">
-  <img alt="Sloan, the sloth mascot" width="250px" src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif">
-   <br>
-</p>
+ <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+
 
 <p align="left">
-<a href="https://dev.to/likhithatadikonda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="likhithatadikonda" height="30" width="40" /></a>
 <a href="https://twitter.com/@likhithatoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@likhithatoo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/likhitha-tadikonda-4351511a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/likhitha-tadikonda-4351511a4/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/likhithatoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/likhithatoo/" height="30" width="40" /></a>
 <a href="https://instagram.com/@likhithatoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@likhithatoo" height="30" width="40" /></a>
-<a href="https://discord.gg/#5406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5406" height="30" width="40" /></a>
+
 </p>
 
 -  Learning to become a full stack web developer.<br>
 -  Third Year Undergrad majoring in AI&ML,Computer Science and Engineering.<br>
 -  Exploring applied Machine Learning & Deep Learning.<br>
-
+-  Learning in public on <a href="https://dev.to/likhithatadikonda">likhithatadikonda.dev</a> 📹 ✍🏾<br>
+-  Sharing updates on <a href="https://www.linkedin.com/in/likhitha-tadikonda-4351511a4/">LinkedIn</a> 💼<br>
+ 
 <h3 align="left">Technologies:</h3>
 <p align="left">
    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
