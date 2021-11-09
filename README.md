@@ -1,7 +1,7 @@
 <h1 align="center">Hey there,I'm [Likhitha Tadikonda!👋🏾 👩🏾‍💻</h1>
 <h6 align="right">-It’s not about having the skill to do something. It’s about having the will, desire & commitment to be your best.</h6>
 
- <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+ <a href="https://github.com/sponsors/M0nica"><img align="left" width="200" height="200" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 <p align="left">
 <a href="https://twitter.com/@likhithatoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@likhithatoo" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/likhithatoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/likhithatoo/" height="30" width="40" /></a>
