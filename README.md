@@ -3,6 +3,7 @@
 
  <a href="https://github.com/sponsors/M0nica"><img align="left" width="200" height="200" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/likhitha-tadikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/likhitha-tadikonda" height="30" width="40" /></a>
 <a href="https://twitter.com/@likhithatoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@likhithatoo" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/likhithatoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/likhithatoo/" height="30" width="40" /></a>
 <a href="https://instagram.com/@likhithatoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@likhithatoo" height="30" width="40" /></a>
