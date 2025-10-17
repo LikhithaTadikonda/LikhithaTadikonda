@@ -1,20 +1,19 @@
 <h1 align="center">Hey there,I'm [ Likhitha Tadikonda! ]👋🏾 👩🏾‍💻</h1>
+<h4 align="left">CS Grad @UCM,Lees Summit,MO,USA | Ex-Software Engineer @Cybage | Prev Data Science Intern @APSSDC | Azure Dev Lead | Hackathon Organizer | Internshala Student Partner Scholar</h4>
 
- <a href="https://github.com/sponsors/M0nica"><img align="left" width="200" height="200" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-<p align="center">
-<a href="https://www.linkedin.com/in/likhithaaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>
-<a href="mailto:likhithatadikonda19@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="30" />
+ <a href="https://github.com/sponsors/M0nica"><img align="left" width="250" height="250" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 </a>
 
+- 🤝 I’m actively Seeking New Opportunities as : **Backend / Full Stack Dev, AI / ML Engineer, Data Analyst/Scientist**
+- 📫 Reach me at: likhithatadikonda19@gmail.com
 
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/likhithatadikonda.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="likhithatadikonda.dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/likhithaaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/likhithaaa/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/likhitha_t1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/likhitha_t1" height="30" width="40" /></a>
 </p>
 
--  CS Grad @UCM,Lees Summit,MO,USA | Ex-Software Engineer @Cybage | Prev Data Science Intern @APSSDC | Azure Dev Lead | Hackathon Organizer | Internshala Student Partner Scholar <br>
--  Learning in public on <a href="https://dev.to/likhithatadikonda">likhithatadikonda.dev</a> 📹 ✍🏾<br>
--  Connect with me on <a href="https://www.linkedin.com/in/likhitha-tadikonda-4351511a4/">LinkedIn</a> 💼<br>
--  Actively Seeking New Positions as Backend Dev, Full Stack Dev, AI Engineer, ML Engineer, Data Analyst/Scientist
- 
 <h3 align="left">💻 Technologies & Tools</h3>
 <p align="left">
 
@@ -32,15 +31,6 @@
 💡 Algorithms & Data Structures: Problem Solving | Complexity Analysis  <br>
    </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LikhithaTadikonda&color=green&label=Profile Views&style=plastic" alt="LikhithaTadikonda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=likhithatadikonda&label=Profile%20views&color=0e75b6&style=flat" alt="likhithatadikonda" /> </p>
 
-<details>	
-   <summary><b>Stats:</b></summary>
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=likhithatadikonda&show_icons=true&locale=en&layout=compact" alt="likhithatadikonda" />    </p>
- </details>
-
-<details>	
-  <summary><b>⚡Github Stats</b></summary>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=likhithatadikonda&show_icons=true&locale=en" alt="likhithatadikonda" /></p><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=likhithatadikonda&" alt="likhithatadikonda" /></p></details>
 
